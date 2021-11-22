@@ -1,5 +1,5 @@
 # ZCC_August
-## This is a simple Java CLI utility which views support tickets using the Zendesk API
+## This is a simple Java 16.0.2 CLI utility which views support tickets using the Zendesk API
 
 ### _Usage_:   run the file: src/main/java/ticketviewer/Viewer.java
 
