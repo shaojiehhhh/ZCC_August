@@ -46,7 +46,6 @@ class TicketTest {
         assertEquals(200, status);
     }
 
-
     //test user authetication and ticket requesting
     @org.junit.jupiter.api.Test
     void testLoadAllTickets() {
