@@ -17,7 +17,7 @@ public class Viewer {
     public static String username;          //user's email address
     public static String password;          //user's password
     public static List<Ticket> allTickets;
-    public static String credentials;
+    public static String credentials;       //user's authentication
     private static HttpURLConnection connection;
 
     public Viewer(String username, String password){
