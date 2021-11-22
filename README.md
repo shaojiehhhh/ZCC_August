@@ -5,5 +5,5 @@
 
 ### _Testing_: run the file: src/test/java/ticketviewer/TicketTest.java
 
-### _Example_: please see Example_Screenshot for example output
+### _Example_: please see Example_Screenshot folder for example output
 
