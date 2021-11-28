@@ -11,7 +11,8 @@ $ git clone https://github.com/shaojiehhhh/ZCC_August.git
 ```
 2. Navigate to the repository directory and open it with IntelliJ IDEA.
 3. Import GSON library into your own IntelliJ IDEA.
-4. Run the file `src/main/java/ticketviewer/Viewer.java`.
+4. Build project.
+5. Run the file `src/main/java/ticketviewer/Viewer.java`.
 
 ### Testing:
 Run the test file `src/test/java/ticketviewer/TicketTest.java`.
