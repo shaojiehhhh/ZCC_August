@@ -17,6 +17,8 @@ $ git clone https://github.com/shaojiehhhh/ZCC_August.git
 ### Testing:
 Run the test file `src/test/java/ticketviewer/TicketTest.java`.
 
+Note:  Please replace the {username} and {password} with my username and password in the `testLoadAllTickets()` and `testApiConnect()`.
+
 ### Examples:
 Please see the `Example_Screenshot` directory for example output and test coverage.
 
